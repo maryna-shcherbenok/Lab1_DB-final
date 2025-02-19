@@ -1,0 +1,3 @@
+C:/Users/marin/CLionProjects/Lab1_DB-final/cmake-build-debug/CMakeFiles/Lab1_DB.dir
+C:/Users/marin/CLionProjects/Lab1_DB-final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marin/CLionProjects/Lab1_DB-final/cmake-build-debug/CMakeFiles/rebuild_cache.dir

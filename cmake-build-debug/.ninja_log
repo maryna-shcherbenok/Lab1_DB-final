@@ -1,0 +1,6 @@
+# ninja log v6
+3	95	7614405242523201	CMakeFiles/Lab1_DB.dir/main.c.obj	df173fe9c3c17a4f
+19	108	7614405242683137	CMakeFiles/Lab1_DB.dir/file_manager.c.obj	484e8baf27df09a9
+7	121	7614405242553188	CMakeFiles/Lab1_DB.dir/books.c.obj	a6568257fbbcdbe0
+12	142	7614405242613121	CMakeFiles/Lab1_DB.dir/publishers.c.obj	781ea3e94cdc7077
+143	267	7614405243915503	Lab1_DB.exe	4cfc24ee3d7713b
